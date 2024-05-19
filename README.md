@@ -1,7 +1,7 @@
 <div align="center"><h1>GIS and Analytic Hierarchy Process for Public
 Health Selection: A Case Study on COVID-19
 Worldwide</h1><\div>
-<div align="center"><b>Abstract</b><\div>
+<div align="center">Abstract<\div>
 The life-threatening disease caused by the novel coronavirus 2019 (COVID-19) has garnered
 global attention and has become a pandemic, leading to a high number of cases and fatalities.
 Saliva droplets or nasal discharge from coughing and sneezing of an infected individual are the
